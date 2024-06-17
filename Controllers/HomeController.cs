@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using LHD_BaiThi23_24.Models;
 
-namespace LHD_BaiThi23_24.Controllers;
+namespace LHD_167.Controllers;
 
 public class HomeController : Controller
 {

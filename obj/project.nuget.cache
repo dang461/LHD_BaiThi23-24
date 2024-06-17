@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B/zfxJM7O5mpUU2dp6N+5Tg0dZjbJ6uUJ2KtQCNkWuFZ2WN4VdnCJI/qB2q6AmAwuqYXeks7TQKlWmOXflIokQ==",
+  "dgSpecHash": "JVo3R/ySSbIj19NO2+g5VmLYroDLzRpnJcfVivJysKqh0gRyz4RvJtN9ri/AmG0hMCgZK6001j6qCp2ooLB1ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lehai\\Desktop\\LHD_BaiThi23-24\\LHD_BaiThi23-24.csproj",
+  "projectFilePath": "C:\\Users\\lehai\\Desktop\\LHD_BaiThi23-24\\LHD_167.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lehai\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\lehai\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
